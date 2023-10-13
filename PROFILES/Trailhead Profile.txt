@@ -1,1 +1,34 @@
+NAME : PASUPULETI LEELAVATHI
+LEARNING TRACK : DEVELOPER 
+EMAIL : pasupuletileelavathi.22@gmail.com
+TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/leelavathipasupuleti
+USERNAME (DEVELOPER ORG) : pasupuletileelavathi.22@gayatri.com
+CONTACT : 8019607522
 
+NAME : PRABHU MOUNIKA
+LEARNING TRACK : DEVELOPER 
+EMAIL : mounikarugal@gmail.com
+TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/mounikaprabhu
+USERNAME (DEVELOPER ORG) : mounikarugal@gayatri.com
+CONTACT : 7093534815
+
+NAME : BARAL PALLAVI 
+LEARNING TRACK : DEVELOPER
+EMAIL : baralpallavi97@gmail.com
+TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/pallavibaral
+USERNAME (DEVELOPER ORG) : baralpallavi97@gdcproject.com
+CONTACT : 8106115473
+
+NAME : GADAMCHETTY JYOTHIKA
+LEARNING TRACK : DEVELOPER 
+EMAIL : gadamchettyjyothika@gmail.com
+TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/jyothikagadamchetty
+USERNAME (DEVELOPER ORG) : gadamchettyjyothika@gdcproject.com
+CONTACT : 9490014716
+
+NAME : JADAPALLI SHEKAR NEHA
+LEARNING TRACK : DEVELOPER 
+EMAIL : jadapallishekarneha@gmail.com
+TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/nehajadapallishekar
+USERNAME (DEVELOPER ORG) : jadapallishekarneha@gdcproject.com
+CONTACT : 9390202213
